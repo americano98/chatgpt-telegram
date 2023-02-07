@@ -2,6 +2,8 @@
 ### About
 This repository contains a Telegram Bot that uses OpenAI's ChatGPT as its backend. The bot provides conversational services to users through Telegram.
 
+You can try it out [here](https://t.me/CallChatGPTbot).
+
 ### Installation and starting
 To install this repository on your local machine, you can use the following steps:
 
