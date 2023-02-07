@@ -9,7 +9,7 @@ To install this repository on your local machine, you can use the following step
 `git clone https://github.com/americano98/chatgpt-telegram.git`
 * Install the dependencies by running npm install in the project directory:
 `npm install`
-* Setup variables in* the .env file
+* Setup variables in the .env file
 * Starting the project using:
 `npm run start`
 
