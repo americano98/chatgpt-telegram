@@ -2,8 +2,6 @@
 ### About
 This repository contains a Telegram Bot that uses OpenAI's ChatGPT as its backend. The bot provides conversational services to users through Telegram.
 
-You can try it out [here](https://t.me/CallChatGPTbot).
-
 ### Installation and starting
 To install this repository on your local machine, you can use the following steps:
 
@@ -29,7 +27,9 @@ OPENAI_TOKEN=<your-openai-api-key>
 ### Starting Guide for Telegram Bot Development
 Familiarize yourself with the Telegram Bot API by reading the official documentation.
 Choose a programming language and framework that you are comfortable with. For this repository - Node.js and TypeScript were used.
+
 Design the conversation flow for your bot. Think about what you want the bot to do and how you want it to interact with users.
 Write code to handle incoming messages from users and generate responses using the ChatGPT API.
+
 Test your bot thoroughly before deploying it to a production environment.
 Continuously monitor and improve your bot to provide the best user experience possible.

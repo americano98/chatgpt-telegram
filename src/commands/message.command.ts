@@ -47,7 +47,7 @@ export class MessageCommand extends Command {
         return ctx.reply(answer.text);
       }
 
-      return ctx.reply('Something went wrong')
+      return ctx.reply('Something went wrong...')
     })
   }
 
